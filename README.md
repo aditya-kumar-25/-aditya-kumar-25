@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤠, I'm ADITYA KUMAR</h1>
 <h3 align="center">Full-stack(MERN) Web-Developer, Passionate Competitive-Programmer</h3>
 
-<img align='right' alt="coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align='right' alt="coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-kumar-25&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-kumar-25" /> </p>
 
